@@ -15,7 +15,9 @@ I use Discord more than Twitter, spend way too much time on YouTube, and know ju
 
 PS. Since I'm writing this on May the 4th, I just have to say that I know the Defiant is impressive, but my favorite Star Trek ship is the Millennium Falcon, sorry Worf!
 
-Skills:  HTML / CSS, Discord, POAPs, etc.
+## Skills and experience: 
+
+HTML / CSS, Discord, POAPs, etc. I'm in the Upland.me metaverse, and, don't laugh, only now getting into Minecraft!
 
 - 🔭 I’m currently working on creating POAPs for my favorite communities, and wrapping my head around Linux concepts. 
 - 🌱 I’m currently learning for my Amateur Extra radio license. And I'm always trying to get better at using GitHub. 
