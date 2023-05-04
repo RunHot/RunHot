@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is WΞRLDA HΞRT
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/104140752/1651317818/1500x500)
+#### Welcome to my Github Profile page
+![Welcome to my Github Profile page](https://pbs.twimg.com/profile_banners/104140752/1651317818/1500x500)
 
-One of the many psuedonyms I use is WΞRLDA HΞRT. I've used so many over the years that sometimes I forget what my real name is (I think it's Paul... something 🤔). 
+One of the many pseudonyms I use is WΞRLDA HΞRT ( I've used so many over the years that sometimes I forget what my real name is. I think it's Paul... something 🤔). 
 
 Anyway, I like to think of myself as a coder, but I'd never call myself that in public, it would be an insult to coders!
 
-I use Discord more than Twitter, spend way too much time on YouTube, and know just enough about a lot of subjects to get myself in a lot of trouble. 😱
+I use Discord more than Twitter, spend way too much time on YouTube, and know just enough about a lot of subjects to get myself into a lot of trouble. 😱
 
 . 
 .
@@ -17,7 +17,9 @@ PS. Since I'm writing this on May the 4th, I just have to say that I know the De
 
 Skills:  HTML / CSS, Discord, POAPs, etc.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Creating POAPs for my favorite communities. 
+
+
 
 
 
