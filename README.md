@@ -2,7 +2,7 @@
 
 ![Welcome to my Github Profile page](https://github.com/RunHot/RunHot/blob/main/github-banner-1.png)
 
-Well, WΞRLDA HΞRT is just one of the many pseudonyms I use ( I've used so many over the years that sometimes I forget what my real name is. I think it's Miguel... something 🤔). 
+Well, WΞRLDA HΞRT is just one of the many pseudonyms I use ( I've used so many over the years that sometimes I forget what my real name is. I think it's,  Miguel... something 🤔). 
 
 Anyway, I like to think of myself as a coder, but I'd never call myself that in public, it would be an insult to coders.
 
