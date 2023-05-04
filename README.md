@@ -1,4 +1,4 @@
-### Hi there 👋, my name is WΞRLDA HΞRT
+# Hi there 👋, my name is WΞRLDA HΞRT
 
 ![Welcome to my Github Profile page](https://github.com/RunHot/RunHot/blob/main/github-banner-1.png)
 
