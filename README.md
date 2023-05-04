@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is WΞRLDA HΞRT
 #### Welcome to my Github Profile page
-![Welcome to my Github Profile page](https://pbs.twimg.com/profile_banners/104140752/1651317818/1500x500)
+![Welcome to my Github Profile page](https://github.com/RunHot/RunHot/blob/main/github-banner-1.png)
 
 One of the many pseudonyms I use is WΞRLDA HΞRT ( I've used so many over the years that sometimes I forget what my real name is. I think it's Paul... something 🤔). 
 
