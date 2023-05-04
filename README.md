@@ -1,6 +1,6 @@
-### Hi there 👋, my name is WΞRLDA HΞRT
+### Hi there 👋, my name is ***WΞRLDA HΞRT***
 
-#### Welcome to my Github Profile page
+####             Welcome to my Github Profile page
 
 ![Welcome to my Github Profile page](https://pbs.twimg.com/profile_banners/104140752/1651317818/1500x500)
 
