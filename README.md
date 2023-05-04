@@ -17,11 +17,12 @@ PS. Since I'm writing this on May the 4th, I just have to say that I know the De
 
 ## Skills and experience: 
 
-HTML / CSS, Discord, POAPs, etc. I'm in the Upland.me metaverse, and, don't laugh, only now getting into Minecraft!
+🖥 HTML / CSS, Discord, POAPs, etc.
+🎮 I'm in the Upland.me metaverse, and, don't laugh, only now getting into Minecraft!
 
 - 🔭 I’m currently working on creating POAPs for my favorite communities, and wrapping my head around Linux concepts. 
 - 🌱 I’m also studying for my Amateur Extra radio license. 
--  And I'm always trying to get better at using GitHub. 
+- 🙏🏼 And I'm always trying to get better at using GitHub. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RunHot)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nullspacer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nullspacer.com)  
